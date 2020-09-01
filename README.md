@@ -19,3 +19,6 @@ unless your preferred development machine is either Linux or Mac OS X.
 * [WSL 2 with Docker getting started](https://youtu.be/5RQbdMn04Oc) -- *David Bombal* on YouTube
 * [Windows 10 2004 살펴보기.윈도우에서 쉽게 리눅스를 실행하자.(WSL2)Windows SubSystem for Linux](https://youtu.be/VfX9a1Nvx_Q) -- *OrangeStar* on YouTube
 * [예비 개발자를 위한 개발 영상 - 008.Windows에 도커 설치하기](https://youtu.be/DceEWpkng8M) -- *Foorogrammer-크롤러* on YouTube
+
+## Haskell tutorial video (Korean)
+https://loom.com/share/folder/3be2bf727d6c4c0e85d35f6c81db7dbb
